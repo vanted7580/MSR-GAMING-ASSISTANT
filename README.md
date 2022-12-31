@@ -14,11 +14,11 @@ Project started at 25 August 2022.
 
 #### More video in [Bilibili - 浮华ノ超人的个人空间](https://space.bilibili.com/94341724).
 
-#### GUI with multithreading.
++ GUI with multithreading.
 
 [<img src="https://bb-embed.zjffun.com/embed?v=BV17U4y1r7Me" width="200">](https://www.bilibili.com/video/BV17U4y1r7Me/)
 
-#### AI aiming running effects.
++ AI aiming running effects.
 
 [<img src="https://bb-embed.zjffun.com/embed?v=BV1314y1t7PN" width="200">](https://www.bilibili.com/video/BV1314y1t7PN/)
 

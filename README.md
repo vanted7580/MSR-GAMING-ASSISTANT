@@ -4,6 +4,7 @@
 A python project of Multithreading Artificial Intelligence Aiming System with GUI.
 
 Project started at 25 August 2022.
++ Still **work in progress**.
 
 ## Structure
 

@@ -3,7 +3,7 @@
 
 A python project of Multithreading Artificial Intelligence Aiming System with GUI.
 
-Project start at 25 August 2022.
+Project started at 25 August 2022.
 
 ## Structure
 

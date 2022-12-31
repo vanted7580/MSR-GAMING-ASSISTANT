@@ -2,6 +2,7 @@
 <img src="https://upload.cc/i1/2023/01/01/wcMjRB.png" width="280">
 
 A python project of Multithreading Artificial Intelligence Aiming System with GUI.
+Project start at 25 August 2022.
 
 ## Structure
 

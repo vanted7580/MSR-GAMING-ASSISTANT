@@ -10,6 +10,7 @@ Project started at 25 August 2022.
 ## Structure
 
 <img src="https://upload.cc/i1/2023/01/01/7mVlXb.jpg">
++ *This image may not be accurate.
 
 ## Preview
 

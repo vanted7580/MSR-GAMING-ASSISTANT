@@ -9,8 +9,15 @@ Project started at 25 August 2022.
 
 ## Structure
 
-<img src="https://upload.cc/i1/2023/01/01/7mVlXb.jpg">
+### Basic Structure
+
 *This image may not be accurate.
+
+<img src="https://upload.cc/i1/2023/01/01/VrHeDS.jpg">
+
+### Thread Synchronization
+
+<img src="https://upload.cc/i1/2023/01/01/RoBtln.png">
 
 ## Current Progress
 

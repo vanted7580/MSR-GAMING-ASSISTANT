@@ -11,7 +11,7 @@ Project started at 25 August 2022.
 
 *This is my first python project.
 
-## Structure
+## Images
 
 #### Basic Structure
 
@@ -22,6 +22,12 @@ Project started at 25 August 2022.
 #### Thread Synchronization
 
 <img src="https://upload.cc/i1/2023/01/01/RoBtln.png">
+
+#### GUI Design
+
+<img src="https://upload.cc/i1/2023/01/01/CHdt2p.png">
+
+*Designed by me at [here](https://www.bilibili.com/video/BV1EZ4y1A7qv/).
 
 ## Current Progress
 

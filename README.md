@@ -6,6 +6,7 @@ A python project of Multithreading Artificial Intelligence Aiming System with GU
 Project started at 25 August 2022.
 + Still **work in progress**.
 + A rewritten version is coming soon.
+* This is my first python project.
 
 ## Structure
 

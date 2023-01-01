@@ -9,7 +9,7 @@ Project started at 25 August 2022.
 
 + A rewritten version is coming soon.
 
-* This is my first python project.
+*This is my first python project.
 
 ## Structure
 

@@ -12,6 +12,19 @@ Project started at 25 August 2022.
 <img src="https://upload.cc/i1/2023/01/01/7mVlXb.jpg">
 *This image may not be accurate.
 
+## Current Progress
+
+
+| Status | Details | Date |
+| ------ | ---------------------- | ---------- |
+| :white_check_mark: | Build basic structure of project. | - |
+| :white_check_mark: | GUI design. | - |
+| :white_check_mark: | AI detect module. | - |
+| :white_check_mark: | Windows capture module. | - |
+| :white_check_mark: | Thread-Sync module. | - |
+| :black_square_button: | Aiming system with PID control. | - |
+| :black_square_button: | ... | - |
+
 ## Preview
 
 #### More video in [Bilibili - 浮华ノ超人的个人空间](https://space.bilibili.com/94341724).
@@ -23,6 +36,7 @@ Project started at 25 August 2022.
 + AI aiming running effects.
 
 [<img src="https://bb-embed.zjffun.com/embed?v=BV1314y1t7PN" width="200">](https://www.bilibili.com/video/BV1314y1t7PN/)
+
 
 
 ## References

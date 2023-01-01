@@ -25,24 +25,14 @@ Project started at 25 August 2022.
 [<img src="https://bb-embed.zjffun.com/embed?v=BV1314y1t7PN" width="200">](https://www.bilibili.com/video/BV1314y1t7PN/)
 
 
-## License
-
-[MSR Gaming Assistant](https://github.com/wqy224491/MSR-GAMING-ASSISTANT) is available for GPL-3.0 License:
-
-+ [GPL-3.0 License](https://github.com/wqy224491/MSR-GAMING-ASSISTANT/blob/main/LICENSE) in files.
- 
- ## Contact
- 
-Twitter: [✪VANTED](https://twitter.com/vanted7580)
-
-Discord: [VANTED.CC | CSGO Community | MSR_GAMING](https://discord.gg/2gS7kGu6)
-
 ## References
 [YOLOv5 🚀 in PyTorch](https://github.com/ultralytics/yolov5)
 
 [PyQt5 -  Qt cross platform application toolkit](https://pypi.org/project/PyQt5/)
 
-## 
+## License
+
+[MSR Gaming Assistant](https://github.com/wqy224491/MSR-GAMING-ASSISTANT) is available for [GPL-3.0 License](https://github.com/wqy224491/MSR-GAMING-ASSISTANT/blob/main/LICENSE) in files.
 
 <img src="https://upload.cc/i1/2023/01/01/0nyLFI.png" width="280">
 

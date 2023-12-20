@@ -7,8 +7,6 @@ Project started at 25 August 2022.
 
 + **Project has been terminated**.
 
-+ A rewritten version is coming soon.
-
 *This is my first python project.
 
 ## Images
